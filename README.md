@@ -1,4 +1,4 @@
-Hi there! I’m a software developer who got into coding simply **because I love typing**.  
+🙌Hi there! I’m a software developer who got into coding simply **because I love typing**.  
 
 ### 📈 Background
 <img src="https://img.shields.io/badge/Pro*C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-DA291C?style=flat-square"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
