@@ -17,4 +17,4 @@
 - Aim to work in IT within the financial sector not only in Korea but also in the U.S.
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layou
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongeun1&layout=compact)
