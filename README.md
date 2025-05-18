@@ -3,7 +3,7 @@
 ### 📈 Background
 <img src="https://img.shields.io/badge/Pro*C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-DA291C?style=flat-square"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 
-– 4½ years and half as a Backend Developer (until Feb 2025)  
+– 4 and half years as a Backend Developer (until Feb 2025)  
 – Built logical, high-reliability services for leading financial investment firms like JP Morgan Korean branch especially dealing with the account and client data in [KOSCOM](https://www.koscom.co.kr/eng/main.do?mobileYn=Y).
   
   
